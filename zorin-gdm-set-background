@@ -98,7 +98,7 @@ ROUTINE_CHECK() {
 ###################################################
 RESCUE_MODE() {
   echo -e "
->>>>> Trying to ${BWhi}reinstall${RCol} the package yaru-theme-gnome-shell,
+>>>>> Trying to ${BWhi}reinstall${RCol} the package zorin-desktop-themes,
 if the reinstallation of the package is succesful, background change will be done
 otherwise No changes will be made <<<<<<<<<
 "
